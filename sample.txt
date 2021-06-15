@@ -1,4 +1,4 @@
 check out
 adding a new line
 adding a third line
-Adding a fourth line from cloned another dir
+Removed the fourth line
