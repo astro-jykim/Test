@@ -1,3 +1,4 @@
 check out
-adding new line
+adding a new line
 adding a third line
+Adding a fourth line from cloned another dir
