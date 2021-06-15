@@ -1,5 +1,0 @@
-check out
-adding a new line
-adding a third line
-Adding a fourth line from cloned another dir
-I have fifth line and fourth line still alive
