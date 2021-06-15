@@ -2,3 +2,4 @@ check out
 adding a third line
 Removed the fourth line
 The 2nd line is removed from Dir 2
+Push 5th line
