@@ -1,2 +1,3 @@
 check out
-adding new text line
+adding new line
+adding a third line
